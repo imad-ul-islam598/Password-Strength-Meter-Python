@@ -11,17 +11,14 @@ Welcome to the **Password Strength Checker**, a modern web application built wit
 ✅ **Download Password** - Save your generated password as a text file.
 
 ## 🖥️ Demo
-Check out the live demo [here](#) *(If deployed, insert link here)*
-
-## 📸 Screenshots
-*(Insert screenshots here showing password analysis and password generation features)*
+Check out the live demo [here](https://pass-strength-meter-python.streamlit.app/)
 
 ## 🛠️ Installation
 To run this project locally, follow these steps:
 
 ### 1️⃣ Clone the Repository
 ```sh
- git clone https://github.com/your-username/password-strength-checker.git
+ git clone https://github.com/imad-ul-islam598/Password-Strength-Meter-Python.git
  cd password-strength-checker
 ```
 
